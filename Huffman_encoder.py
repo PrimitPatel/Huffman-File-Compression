@@ -16,8 +16,8 @@ if op=='i':
     input_gen=histogram_img
 elif op=='t':
     print('******************************Text file compression******************************')
-    txt='BCAADDDCCACACACAAAAAAABBCDAAADDBCCCCCCCCAADDD' # sample text to verify huffman codding algo.
-    #txt=open('sample_text.txt','r').read()
+    #txt='BCAADDDCCACACACAAAAAAABBCDAAADDBCCCCCCCCAADDD' # sample text to verify huffman codding algo.
+    txt=open('sample_text.txt','r').read()
     input_gen=txt.lower()
     
 else:
