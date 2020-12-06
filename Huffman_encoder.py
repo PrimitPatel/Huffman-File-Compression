@@ -1,3 +1,8 @@
+# Primit Patel
+# std id- 110016936
+# patel2fx@uwindsor.ca
+# University of Windsor
+
 import numpy as np
 from matplotlib.pyplot import imread
 from heapq import heappush, heappop, heapify
