@@ -23,8 +23,6 @@ Python 3.5 (or latest version)
 ## Output
 Run Huffman_encoder.py and
 type 'I/i' for image file compression or 'T/t' for text file compression.
- 
-
-
+  This code returns two file one is a compressed output sequence and one is a dictionary of Huffman coded for each character which is helpful for decryption.
 
 
